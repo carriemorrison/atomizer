@@ -13,6 +13,7 @@ module.exports = {
         colAside: 'aside',
         colMain: 'main',
         columnWidth: '20px',
+        demoImageRatio: '174 / 83',
         gridABC: `"a a a"
                  "b c c"
                  "b c c"`,
